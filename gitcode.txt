@@ -28,6 +28,8 @@ git checkout <BRANCH NAME>
 
 git remote -v
 
-git remote <NAME> <URL>
+git remote add <NAME> <URL>
 
 git push <NAME> <BRANCHNAME>
+
+git pull 
