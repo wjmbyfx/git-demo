@@ -13,3 +13,9 @@ git add <FILENAME>
 git reflog / git log
 
 git reset --hard <location code>
+
+### branch
+
+git branch -v
+
+git branch <NAME>
