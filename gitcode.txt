@@ -23,3 +23,9 @@ git merge <NAME>
 git branch <BRANCH NAME>
 
 git checkout <BRANCH NAME>
+
+
+
+git remote -v
+
+git remote <NAME> <URL>
