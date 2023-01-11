@@ -19,3 +19,5 @@ git reset --hard <location code>
 git branch -v
 
 git branch <NAME>
+
+git merge <NAME>
