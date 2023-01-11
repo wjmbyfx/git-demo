@@ -33,3 +33,5 @@ git remote add <NAME> <URL>
 git push <NAME> <BRANCHNAME>
 
 git pull 
+
+git clone <URL>
