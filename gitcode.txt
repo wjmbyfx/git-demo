@@ -18,6 +18,8 @@ git reset --hard <location code>
 
 git branch -v
 
-git branch <NAME>
-
 git merge <NAME>
+=======
+git branch <BRANCH NAME>
+
+git checkout <BRANCH NAME>
