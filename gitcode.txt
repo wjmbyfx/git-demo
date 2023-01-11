@@ -1,0 +1,15 @@
+ git status
+
+git rm --cached <FILENAME>
+
+git commit -m  "<subscript>"
+
+git config user.name <>
+
+git config user.email <>
+
+git add <FILENAME>
+
+git reflog / git log
+
+git reset --hard <location code>
