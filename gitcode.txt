@@ -18,4 +18,6 @@ git reset --hard <location code>
 
 git branch -v
 
-git branch <NAME>
+git branch <BRANCH NAME>
+
+git checkout <BRANCH NAME>
