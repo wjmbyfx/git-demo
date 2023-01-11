@@ -29,3 +29,5 @@ git checkout <BRANCH NAME>
 git remote -v
 
 git remote <NAME> <URL>
+
+git push <NAME> <BRANCHNAME>
